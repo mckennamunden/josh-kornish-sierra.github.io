@@ -4,4 +4,4 @@
 
 ##For the Contact section of the site I used a formspree component to perform the email relay, which functions via the github hosting.  
 
-##All images are my own of me, used with permission.  Image selection for the main page ultimately came down to what worked best within the Bootstrap template.
+##All images are my own or of me, used with permission.  Image selection for the main page ultimately came down to what worked best within the Bootstrap template.
